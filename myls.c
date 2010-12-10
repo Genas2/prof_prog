@@ -1,4 +1,3 @@
-//#include "apue.2e/include/apue.h"
 #include <string.h>
 #include <dirent.h>
 #include <stdlib.h>
